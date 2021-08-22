@@ -1,1 +1,20 @@
-
+{
+  "users": [
+    {
+      "id": "598",
+      "firstName": "Marvin",
+      "lastName": "Arnold",
+      "email": "bpj101@gmail.com",
+      "password": "worKing@vue3",
+      "rememberMe": true,
+      "address": "11 Capender Road",
+      "city": "New Brunswick",
+      "state": "NJ",
+      "zip": "08901",
+      "phone": "16464173830",
+      "title": "Web Producer",
+      "url": "https://www.dameagnesproductions.com"
+    }
+  ],
+  "pvs": []
+}
